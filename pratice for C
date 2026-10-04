@@ -1,0 +1,5 @@
+#inlude <stdio.h>
+
+int main(){
+printf("=================HUSK OS=========================="0);
+return 0;}
